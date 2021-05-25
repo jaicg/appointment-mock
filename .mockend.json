@@ -5,8 +5,8 @@
     "address": "string",
     "date": "date",
     "time": "string",
-    "status": "text",
-    "orderId": "text",
+    "status": "string",
+    "orderId": "string",
     "ordernumber": "int",
   },
   "Post": {
