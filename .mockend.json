@@ -1,5 +1,5 @@
 {  
-  "Appointment": {
+  "appointments": {
     "appointmentId": "string",
     "appointmentType": "string",
     "address": "string",
