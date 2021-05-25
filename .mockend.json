@@ -1,5 +1,5 @@
 {  
-  "Post": {
+  "Appointment": {
     "title": "string",
     "views": "int",
     "published": "boolean",
