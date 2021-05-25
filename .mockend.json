@@ -1,13 +1,12 @@
 {  
   "Appointment": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+    "appointmentId": "string",
+    "appointmentType": "string",
+    "address": "string",
+    "date": "date",
+    "time": "string",
+    "status": "string",
+    "orderId": "string",
+    "orderNumber": "int"    
   }
 }
