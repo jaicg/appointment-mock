@@ -1,4 +1,14 @@
 {  
+  "Appointment": {
+    "appointmentId": "string",
+    "appointmentType": "string",
+    "address": "string",
+    "date": "date",
+    "time": "string",
+    "status": "text",
+    "orderId": "text",
+    "ordernumber": "int",
+  },
   "Post": {
     "title": "string",
     "views": "int",
