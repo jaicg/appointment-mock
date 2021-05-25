@@ -7,17 +7,6 @@
     "time": "string",
     "status": "string",
     "orderId": "string",
-    "ordernumber": "int",
-  },
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+    "orderNumber": "int",
   }
 }
