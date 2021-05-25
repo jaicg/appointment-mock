@@ -4,7 +4,7 @@
     "appointmentType": "string",
     "address": "string",
     "date": "date",
-    "time": "time",
+    "time": "string",
     "status": "text",
     "orderId": "text",
     "ordernumber": "Number",
